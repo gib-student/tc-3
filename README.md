@@ -1,3 +1,3 @@
 # tc-3
-Team challenge
-Ismael Tenango here.
+Team challenge 3. 
+Keenan Lindsey
