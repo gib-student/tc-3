@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace trevor_data
+namespace group_program
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to our collaborative program.");
         }
     }
 }
