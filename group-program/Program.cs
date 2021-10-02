@@ -47,7 +47,7 @@ namespace group_program
         }
         static void MichaelFunction()
         {
-            Console.WriteLine("Honestly hope I did this right, if not I will fix it...");
+            Console.WriteLine("Honestly hope I did this right, if not I will fix it... Update: I did mess up, this is me fixing it \n - Michael Johnson");
         }
     }
 }
