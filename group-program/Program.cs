@@ -10,7 +10,7 @@ namespace group_program
 
             // Show Trevor's additions
             Console.WriteLine("\t\tBehold Trevor's additions!\n");
-            TrevorsFunction();
+            GibbFunction();
             Console.WriteLine();
 
             // Show Keenan's addition
@@ -18,7 +18,7 @@ namespace group_program
             Console.WriteLine();
 
             // Show Ismael's additions
-            Funciondeismael();
+            FuncionDeTenango();
             Console.WriteLine();
 
             // Show Michael's additions
@@ -27,7 +27,7 @@ namespace group_program
 
         }
         
-        static void TrevorsFunction()
+        static void GibbFunction()
         {
             Console.WriteLine("\t\t░░▄▀░░░░░░░░░░░░░░░▀▀▄▄░░░░░");
             Console.WriteLine("\t\t░░▄▀░░░░░░░░░░░░░░░░░░░░▀▄░░░");
@@ -62,7 +62,7 @@ namespace group_program
             Console.WriteLine("Honestly hope I did this right, if not I will fix it... Update: I did mess up, this is me fixing it \n - Michael Johnson");
         }
 
-        static void Funciondeismael()
+        static void FuncionDeTenango()
         {
             Console.WriteLine("Un poco de spanish no esta mal :)! \n -- Ismael Tenango ");
         }
