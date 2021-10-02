@@ -11,17 +11,22 @@ namespace group_program
             // Show Trevor's additions
             Console.WriteLine("\t\tBehold Trevor's additions!\n");
             TrevorsFunction();
+            Console.WriteLine();
 
             // Show Keenan's addition
             KeenanFunction();
+            Console.WriteLine();
 
             // Show Ismael's additions
             Funciondeismael();
+            Console.WriteLine();
 
             // Show Michael's additions
             JohnsonFunction();
+            Console.WriteLine();
 
         }
+        
         static void TrevorsFunction()
         {
             Console.WriteLine("\t\t░░▄▀░░░░░░░░░░░░░░░▀▀▄▄░░░░░");
