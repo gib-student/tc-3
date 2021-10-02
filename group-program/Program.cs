@@ -45,5 +45,9 @@ namespace group_program
         {
             Console.WriteLine("Trevor will always be on another level than us =( \n -Keenan Lindsey");
         }
+        static void MichaelFunction()
+        {
+            Console.WriteLine("Honestly hope I did this right, if not I will fix it...");
+        }
     }
 }
