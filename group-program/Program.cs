@@ -14,7 +14,12 @@ namespace group_program
 
             // Show Keenan's addition
             KeenanFunction();
+
+            // Show Ismael's additions
             Funciondeismael();
+
+            // Show Michael's additions
+            JohnsonFunction();
 
         }
         static void TrevorsFunction()
@@ -50,6 +55,7 @@ namespace group_program
         static void JohnsonFunction()
         {
             Console.WriteLine("Honestly hope I did this right, if not I will fix it... Update: I did mess up, this is me fixing it \n - Michael Johnson");
+        }
 
         static void Funciondeismael()
         {
