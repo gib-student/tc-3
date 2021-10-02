@@ -45,5 +45,9 @@ namespace group_program
         {
             Console.WriteLine("Trevor will always be on another level than us =( \n -Keenan Lindsey");
         }
+        static void Funciondeismael()
+        {
+            Console.WriteLine("Un poco de spanish no esta mal :)! \n -- Ismael Tenango ");
+        }
     }
 }
